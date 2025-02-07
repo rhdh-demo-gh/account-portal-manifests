@@ -2,3 +2,9 @@ image:
   repository: ghcr.io/rhdh-demo-gh/account-portal
   pullPolicy: IfNotPresent
   tag: "dev"
+
+app:
+  image:
+    repository: ghcr.io/rhdh-demo-gh/account-portal
+    pullPolicy: IfNotPresent
+    tag: "dev"
