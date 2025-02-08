@@ -2,4 +2,4 @@ nodejs-on-openshift:
   image:
     repository: ghcr.io/rhdh-demo-gh/account-portal
     pullPolicy: IfNotPresent
-    tag: "dev"
+    tag: "main"
